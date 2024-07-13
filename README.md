@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
